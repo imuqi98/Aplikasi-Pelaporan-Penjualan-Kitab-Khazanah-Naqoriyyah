@@ -30,7 +30,7 @@ init_db()
 
 st.set_page_config(
     page_title="Pelaporan Penjualan Kitab",
-    page_icon="logo.png",
+    page_icon="Logo.png",
     layout="wide",
     initial_sidebar_state="expanded"
 )
