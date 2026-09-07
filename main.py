@@ -3,7 +3,7 @@ import io
 import pandas as pd
 import streamlit as st
 
-from database.database import (
+from database import (
     init_db,
     get_authors,
     add_author,
